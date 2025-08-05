@@ -22,7 +22,7 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center">
             <img 
-              src="/lovable-uploads/a108dfab-cf0c-47c4-9b1d-223cd83fcd79.png" 
+              src="/logo1.png" 
               alt="HR-Links" 
               className="h-10 w-auto"
             />
